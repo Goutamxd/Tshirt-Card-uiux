@@ -1,7 +1,7 @@
 let product = {
     name: 'T-Shirt LD02',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias necessitatibus ratione consectetur architecto accusamus iste assumenda velit molestiae reiciendis facere',
-    image: 'image.png',
+    image: 'T-Shirt.png',
     price: '100 ~ 200',
     children: [
         {color: '#bfb1a4', size: 'M', price: 100},
